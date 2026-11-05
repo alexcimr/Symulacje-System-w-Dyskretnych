@@ -1,2 +1,2 @@
-# Symulacje-System-w-Dyskretnych
+# Symulacje-Systemow-Dyskretnych
 Symulacja krakowskiej sieci tramwajowej 
